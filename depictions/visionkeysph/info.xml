@@ -1,0 +1,30 @@
+<package>
+	<id>com.VisionKeysPH.visionkeysph</id>
+	<name>VisionKeys Purple Haze</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>Ellekit</dependencies>
+	<descriptionlist>
+		<description>Purple Haze Laetus Theme</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<version>1.0.0</version>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+	<link>
+		<name> /u/kennectdubz</name>
+		<url>https://www.reddit.com/u/kennectdubz</url>
+		<iconclass>fab fa-reddit</iconclass>
+	</link>
+	</links>
+</package>
