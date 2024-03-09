@@ -5,7 +5,7 @@ Architecture: iphoneos-arm64
 Description: A beautiful Laetus theme!
 Maintainer: Kennect <contact@kennectdubz.com>
 Author: Kennect <contact@kennectdubz.com>
-Section: Laetus Theme Rootless
+Section: Laetus Theme
 Filename: ./debs/com.VisionKeysPH.deb
 Depiction: https://kennectdubz.github.io/repo/depictions/com.visionkeysph
 Size: 1495000
