@@ -1,7 +1,7 @@
 Package: com.VisionKeysPH.deb
 Name: Vision Keys Purple Haze
 Version: 1.0.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: A beautiful Laetus theme!
 Maintainer: Kennect <contact@kennectdubz.com>
 Author: Kennect <contact@kennectdubz.com>

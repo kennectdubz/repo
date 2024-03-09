@@ -1,30 +1,36 @@
 <package>
-	<id>com.visionkeysph</id>
-	<name>VisionKeys Purple Haze</name>
+	<id>com.VisionKeysPH</id>
+	<name>Vision Keys Purple Haze</name>
 	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>15</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>15</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies>Ellekit</dependencies>
+	<dependencies>
+		<package>Laetus</package>
+	</dependencies>
+	<shortDescription>A beautiful Laetus theme!</shortDescription>
 	<descriptionlist>
-		<description>Purple Haze Laetus Theme</description>
+		<description></description>
+		<description></description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+				
+	</screenshots>
 	<changelog>
-		<version>1.0.0</version>
-		<change>Initial release</change>
+		<change></change>
 	</changelog>
 	<links>
-	<link>
-		<name> /u/kennectdubz</name>
-		<url>https://www.reddit.com/u/kennectdubz</url>
-		<iconclass>fab fa-reddit</iconclass>
-	</link>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
 	</links>
 </package>
