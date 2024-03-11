@@ -1,0 +1,36 @@
+<package>
+	<id>com.visionkeysphl.deb</id>
+	<name>Vision Keys Purple Haze Light</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Laetus</package>
+	</dependencies>
+	<shortDescription>Purple Haze Laetus theme, but light!</shortDescription>
+	<descriptionlist>
+		<description>Supported Languages: English, Spanish, and Arabic</description>
+		<description></description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+				
+	</screenshots>
+	<changelog>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
