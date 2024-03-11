@@ -17,7 +17,7 @@ Package: com.visionkeysPuprleL
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: Kennect
-Filename: ./debs/com.visionkeysphl.deb
+Filename: ./debs/com.visionkeysPurpleL_1.0.0_iphoneos-arm64.deb
 Size: 18519468
 MD5sum: 886a22d003ab80df3217949fbbc703f9
 SHA1: a2711d8fbd39a238d65128595de00ceea4f07f87
@@ -25,6 +25,5 @@ SHA256: de43882efd3abd9c3ef54a14a829e393fad86c45facd90d328a36cca47f947a3
 Section: Laetus Theme
 Description: Purple Haze Laetus theme, but light!
 Author: Kennect
-Depiction: https://kennectdubz.github.io/depictions/?p=com.visionkeysPuprleL
 Name: Vision Keys Purple Haze Light
-Sileodepiction: https://kennectdubz.github.io/depictions/com.visionkeysPuprleL/visionkeysPHL.json
+Sileodepiction: https://kennectdubz.github.io/depictions/com.kennect.visionkeysPuprleL/visionkeysPHL.json
