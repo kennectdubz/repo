@@ -4,11 +4,28 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Description: A beautiful Laetus theme!
 Maintainer: Kennect <contact@kennectdubz.com>
+Depends: firmware (<15.0)
 Author: Kennect <contact@kennectdubz.com>
 Section: Laetus Theme
 Filename: ./debs/com.VisionKeysPH.deb
-Depiction: https://kennectdubz.github.io/repo/depictions/com.visionkeysph
+Depiction: https://kennectdubz.github.io/repo/depictions?p=com.visionkeysph
 Size: 1495000
 MD5sum: d2e3fbed92f29bcf16ba3855fdeecf9e
 SHA1: 3f08a4c64ef86fca6cc3e21286e825ab57424414
 SHA256: 7bc73d5eff3c849994b50ac751ab40afce09c24c784b826d66c003034cfb1968
+
+Package: com.kennect.visionkeysphl_1.0.0_iphoneos-arm64.deb
+Name: Vision Keys Purple Haze Light
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Purple Haze Laetus theme, but light!
+Maintainer: Kennect <contact@kennectdubz.com>
+Depends: firmware (<15.0)
+Author: Kennect <contact@kennectdubz.com>
+Section: Laetus Theme
+Filename: ./debs/com.kennect.visionkeysphl_1.0.0_iphoneos-arm64.deb
+Depiction: https://kennectdubz.github.io/repo/depictions/?p=com.kennect.newpackage
+Size: 18519468
+MD5sum: 886a22d003ab80df3217949fbbc703f9
+SHA1: a2711d8fbd39a238d65128595de00ceea4f07f87
+SHA256: de43882efd3abd9c3ef54a14a829e393fad86c45facd90d328a36cca47f947a3
