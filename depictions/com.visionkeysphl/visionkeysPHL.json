@@ -12,20 +12,20 @@
                 "screenshots": [
                     {
                         "accessibilityText": "Screenshot0",
-                        "url": "https://kennectdubz.github.io/main/depictions/com.visionkeysphl/screenshots/keyboard 1.jpg"
+                        "url": "https://kennectdubz.github.io/depictions/com.visionkeysphl/screenshots/keyboard 1.jpg"
                     },
                     {
                         "accessibilityText": "Screenshot1",
-                        "url": "https://kennectdubz.github.io/main/depictions/com.visionkeysphl/screenshots/keyboard 2.jpg"
+                        "url": "https://kennectdubz.github.io/depictions/com.visionkeysphl/screenshots/keyboard 2.jpg"
                     },
                     {
                         "accessibilityText": "Screenshot2",
-                        "url": "https://kennectdubz.github.io/main/depictions/com.visionkeysphl/screenshots/keyboard 3.jpg"
+                        "url": "https://kennectdubz.github.io/depictions/com.visionkeysphl/screenshots/keyboard 3.jpg"
                      }]
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "<p>Supports Dopamine and palera1n.</p> <p>En: Purlple Haze Light Laetus theme.</p>",
+                "markdown": "<p>Supports Dopamine and palera1n.</p> <p>En: Purple Haze Light Laetus theme.</p>",
                 "useSpacing": true,
                 "useRawFormat": true},
             {
