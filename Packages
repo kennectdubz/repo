@@ -4,6 +4,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm64
 Description: A beautiful Laetus theme!
 Maintainer: Kennect <contact@kennectdubz.com>
+Depends: firmware (<15.0)
 Author: Kennect <contact@kennectdubz.com>
 Section: Laetus Theme
 Filename: ./debs/com.VisionKeysPH.deb
@@ -19,6 +20,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm64
 Description: Purple Haze Laetus theme, but light!
 Maintainer: Kennect <contact@kennectdubz.com>
+Depends: firmware (<15.0)
 Author: Kennect <contact@kennectdubz.com>
 Section: Laetus Theme
 Filename: ./debs/com.kennect.visionkeysphl_1.0.0_iphoneos-arm64.deb
