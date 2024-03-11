@@ -7,7 +7,7 @@ Maintainer: Kennect <contact@kennectdubz.com>
 Author: Kennect <contact@kennectdubz.com>
 Section: Laetus Theme
 Filename: ./debs/com.VisionKeysPH.deb
-Depiction: https://kennectdubz.github.io/repo/depictions/com.visionkeysph
+Depiction: https://kennectdubz.github.io/repo/depictions/?p=com.visionkeysph
 Size: 1495000
 MD5sum: d2e3fbed92f29bcf16ba3855fdeecf9e
 SHA1: 3f08a4c64ef86fca6cc3e21286e825ab57424414
@@ -22,7 +22,7 @@ Maintainer: Kennect <contact@kennectdubz.com>
 Author: Kennect <contact@kennectdubz.com>
 Section: Laetus Theme
 Filename: ./debs/com.visionkeysphl.deb
-Depiction: https://kennectdubz.github.io/repo/depictions/com.visionkeysphl
+Depiction: https://kennectdubz.github.io/repo/depictions/?p=com.visionkeysphl
 Size: 18519468
 MD5sum: 886a22d003ab80df3217949fbbc703f9
 SHA1: a2711d8fbd39a238d65128595de00ceea4f07f87
