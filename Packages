@@ -1,4 +1,4 @@
-Package: com.VisionKeysPH.rootless
+Package: com.visionkeysph
 Name: Vision Keys Purple Haze
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -13,7 +13,7 @@ MD5sum: d2e3fbed92f29bcf16ba3855fdeecf9e
 SHA1: 3f08a4c64ef86fca6cc3e21286e825ab57424414
 SHA256: 7bc73d5eff3c849994b50ac751ab40afce09c24c784b826d66c003034cfb1968
 
-Package: com.visionkeysphl.rootless
+Package: com.visionkeysPuprleL
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: Kennect
