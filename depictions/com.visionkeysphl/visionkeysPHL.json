@@ -1,36 +1,84 @@
-<package>
-	<id>com.visionkeysphl.deb</id>
-	<name>Vision Keys Purple Haze Light</name>
-	<version>1.0.0</version>
-	<compatibility>
-		<firmware>
-			<miniOS>15</miniOS>
-		</firmware>
-	</compatibility>
-	<dependencies>
-		<package>Laetus</package>
-	</dependencies>
-	<shortDescription>Purple Haze Laetus theme, but light!</shortDescription>
-	<descriptionlist>
-		<description>Supported Languages: English, Spanish, and Arabic</description>
-		<description></description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
-	</descriptionlist>
-	<screenshots>
-				
-	</screenshots>
-	<changelog>
-		<change></change>
-	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
-</package>
+{
+    "class": "DepictionTabView",
+    "tabs": [
+            {
+               "class": "DepictionStackView",
+               "tabname": "Details",
+               "views":[
+            {
+                "itemCornerRadius": 3,
+                "class": "DepictionScreenshotsView",
+                "itemSize": "{160, 275.41333333333336}",
+                "screenshots": [
+                    {
+                        "accessibilityText": "Screenshot0",
+                        "url": "https://kennectdubz.github.io/main/depictions/com.visionkeysphl/screenshots/keyboard 1.jpg"
+                    },
+                    {
+                        "accessibilityText": "Screenshot1",
+                        "url": "https://kennectdubz.github.io/main/depictions/com.visionkeysphl/screenshots/keyboard 2.jpg"
+                    },
+                    {
+                        "accessibilityText": "Screenshot2",
+                        "url": "https://kennectdubz.github.io/main/depictions/com.visionkeysphl/screenshots/keyboard 3.jpg"
+                     }]
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "<p>Supports Dopamine and palera1n.</p> <p>En: Purlple Haze Light Laetus theme.</p>",
+                "useSpacing": true,
+                "useRawFormat": true},
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionHeaderView",
+                "title": "Informations",
+                "useBoldText": true
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Devices",
+                "text": "iPhone "
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Compatibility",
+                "text": "15.x - 16.6"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Price",
+                "text": "Free"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "03/11/2024",
+                "title": "Last Time Updated"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "03/10/2024",
+                "title": "Released"
+            }],
+               "xPadding": 10
+            },
+            {
+                "class": "DepictionStackView",
+                "tabname": "Changelog",
+                "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0.0"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Release"
+            },
+            {
+                "class": "DepictionSeparatorView"
+            }
+         ]
+      }
+   ],
+}
