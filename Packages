@@ -21,9 +21,9 @@ Description: Purple Haze Laetus theme, but light!
 Maintainer: Kennect <contact@kennectdubz.com>
 Author: Kennect <contact@kennectdubz.com>
 Section: Laetus Theme
-Filename: ./debs/com.visionkeysphl_1.0.0_iphoneos-arm64.deb
+Filename: ./debs/com.VisionKeysPHL.deb
 Depiction: https://kennectdubz.github.io/repo/depictions/com.visionkeysphl
-Sileodepiction: https://kennectdubz.github.io/repo/depictions/com.visionkeysphl/visionkeysPHL.json
+Sileodepiction: https://kennectdubz.github.io/repo/sileodepictions/com.visionkeysphl/visionkeysPHL.json
 Size: 8519364
 MD5sum: 886a22d003ab80df3217949fbbc703f9
 SHA1: a2711d8fbd39a238d65128595de00ceea4f07f87
