@@ -1,0 +1,36 @@
+<package>
+	<id>com.VisionKeysPH.deb</id>
+	<name>Vision Keys Purple Haze</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Laetus</package>
+	</dependencies>
+	<shortDescription>A beautiful Laetus theme!</shortDescription>
+	<descriptionlist>
+		<description></description>
+		<description></description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+				
+	</screenshots>
+	<changelog>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
