@@ -1,7 +1,7 @@
 Package: com.visionkeysph
 Name: Vision Keys Purple Haze
 Version: 1.0.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Description: A beautiful Laetus theme!
 Maintainer: Kennect <contact@kennectdubz.com>
 Author: Kennect <contact@kennectdubz.com>
@@ -16,7 +16,7 @@ SHA256: 7bc73d5eff3c849994b50ac751ab40afce09c24c784b826d66c003034cfb1968
 Package: com.visionkeysphl
 Name: Vision Keys Purple Haze Light
 Version: 1.0.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Description: Purple Haze Laetus theme, but light!
 Maintainer: Kennect <contact@kennectdubz.com>
 Author: Kennect <contact@kennectdubz.com>
