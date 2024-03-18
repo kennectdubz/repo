@@ -29,18 +29,18 @@ MD5sum: e527a88041ff9d5f1515dc66630b64ab
 SHA1: 03970ed70aadd838988622b6c6aeaeadb88309fa
 SHA256: 02f657f4a7ef2f137a0db99781da010fa998507abc5a6c943d2e681f73bddc1f
 
-Package: com.visionkeysphl
-Name: Vision Keys Purple Haze Light
-Version: 1.0.0
+Package: com.visionkeysphl.rootless
+Name: Vision Keys Purple Haze Light (Rootless)
+Version: 1.0.1
 Architecture: iphoneos-arm64e
 Description: Purple Haze Laetus theme, but light!
 Maintainer: Kennect <contact@kennectdubz.com>
 Author: Kennect <contact@kennectdubz.com>
 Section: Laetus Theme
-Filename: ./debs/com.visionkeysphl_1.0.0_iphoneos-arm64e.deb
-Depiction: https://kennectdubz.github.io/repo/depictions/com.visionkeysphl
-Sileodepiction: https://kennectdubz.github.io/repo/sileodepictions/com.visionkeysphl/visionkeysPHL.json
-Size: 8519364
-MD5sum: e527a88041ff9d5f1515dc66630b64ab
-SHA1: 03970ed70aadd838988622b6c6aeaeadb88309fa
-SHA256: 9619a8ed174f5bc26829e44ceac7c12e622cd25984dbe11b01b2a4e5e28416e4
+Filename: ./debs/com.visionkeysphl.rootless_1.0.1_iphoneos-arm64.deb
+Depiction: https://kennectdubz.github.io/repo/depictions/com.visionkeysphl.rootless
+Sileodepiction: https://kennectdubz.github.io/repo/sileodepictions/com.visionkeysphl.rootless/visionkeysPHL.json
+Size: 8519360
+MD5sum: a0f37abbf3c93fec606a1ec08a2beb08
+SHA1: 36d50d07df74857e7138caa14e84a98d7ac97682
+SHA256: e38abf53d4938fcada528eecb1eceabf3da872031465c20231aef7af316f7ad1
