@@ -32,7 +32,7 @@ SHA256: 02f657f4a7ef2f137a0db99781da010fa998507abc5a6c943d2e681f73bddc1f
 Package: com.visionkeysphl.rootless
 Name: Vision Keys Purple Haze Light (Rootless)
 Version: 1.0.1
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Description: Purple Haze Laetus theme, but light!
 Maintainer: Kennect <contact@kennectdubz.com>
 Author: Kennect <contact@kennectdubz.com>
