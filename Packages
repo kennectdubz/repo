@@ -39,7 +39,7 @@ Author: Kennect <contact@kennectdubz.com>
 Section: Laetus Theme
 Filename: ./debs/com.visionkeysphl.rootless_1.0.1_iphoneos-arm64.deb
 Depiction: https://kennectdubz.github.io/repo/depictions/com.visionkeysphl.rootless
-Sileodepiction: https://kennectdubz.github.io/repo/sileodepictions/com.visionkeysphl.rootless/visionkeysPHL.json
+Sileodepiction: https://kennectdubz.github.io/repo/sileodepictions/com.visionkeysphl.rootless/visionkeysphl.rootless.json
 Size: 8519360
 MD5sum: a0f37abbf3c93fec606a1ec08a2beb08
 SHA1: 36d50d07df74857e7138caa14e84a98d7ac97682
